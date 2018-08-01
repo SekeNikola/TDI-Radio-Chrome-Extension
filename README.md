@@ -28,3 +28,8 @@ Note: All key combinations must include either Ctrl* or Alt. Combinations that i
 
 **TO DO**
 Create notification for users when radio show start. 
+
+
+[![Chrome Web Store](https://img.shields.io/badge/rating-5-blue.svg)](https://chrome.google.com/webstore/detail/tdi-radio/bjjffjeanbleeaijfdjndampfamdkkol?authuser=1) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/SekeNikola/TDI-Radio-Chrome-Extension/graphs/commit-activity)[![Version](https://img.shields.io/badge/version-1.1-orange.svg)](https://github.com/SekeNikola/TDI-Radio-Chrome-Extension/graphs/commit-activity)
+
+

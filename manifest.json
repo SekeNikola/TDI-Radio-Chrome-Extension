@@ -10,25 +10,27 @@
     "default_icon": "icon.png",
     "default_popup": "popup.html"
   },
-  "permissions": ["activeTab", "http://streaming.tdiradio.com:8000/tdiradio.mp3"],
-
+  "permissions": ["activeTab", "http://streaming.tdiradio.com:8000/tdiradio.mp3", "notifications"],
+  "web_accessible_resources": [
+    "icon.png"
+  ],
   "background": {
     "scripts": ["popup.js", "background.js"],
     "persistent": true
   },
 
- 
+
     "commands": {
     "Play": {
       "suggested_key": {
-        "default": "Alt+1",
+        "default": "Alt+Q",
         "mac": "Command+Shift+U"
       },
       "description": "Toggle feature foo"
     },
     "Stop": {
       "suggested_key": {
-        "default": "Alt+2",
+        "default": "Alt+W",
         "mac": "Command+Shift+D"
       },
       "description": "Toggle feature foo"

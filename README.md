@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TDI-Radio-Chrome-Extension
 
 While working I always listen TDI radio so to do that i have to have one tab always open. So i made this Chorme Extension that stream radio in the background. Im working on to get this extension on Chrome Store
